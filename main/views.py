@@ -17,5 +17,5 @@ def hackrooms(request):
 
 #def hackroom?????
 
-def meetups(request):
+#def meetups(request):
 	#All the API info is used here.
